@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/signed-receipt-qr",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/signed-receipt-qr": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/signed-receipt-qr",
+    "origin"
+  ]
+}
